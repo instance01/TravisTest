@@ -20,12 +20,12 @@
       <version>1.7.9-R0.1-SNAPSHOT</version>
       <type>jar</type>
     </dependency>
-    <dependency>
+    <!--<dependency>
       <groupId>com.comze_instancelabs</groupId>
       <artifactId>MinigamesAPI</artifactId>
-      <version>API</version>
+      <version>1.0.0</version>
       <type>jar</type>
       <optional>true</optional>
-    </dependency>
+    </dependency>-->
   </dependencies>
 </project>
