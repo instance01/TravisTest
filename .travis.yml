@@ -1,2 +1,2 @@
 language: java
-install: mvn package -X
+install: mvn install package -X
