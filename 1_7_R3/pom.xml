@@ -25,6 +25,7 @@
       <artifactId>MinigamesAPI</artifactId>
       <version>API</version>
       <type>jar</type>
+      <optional>true</optional>
     </dependency>
   </dependencies>
 </project>
